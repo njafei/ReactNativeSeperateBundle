@@ -4,6 +4,7 @@
 
 
 使用步骤：
+
   1. cd ReactNativeSeperateBundle
   2. npm install
   3. run project
