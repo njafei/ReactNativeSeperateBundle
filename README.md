@@ -5,9 +5,10 @@
 
 使用步骤：
 
-  1. cd ReactNativeSeperateBundle
-  2. npm install
-  3. run project
+ 1. cd ReactNativeSeperateBundle
+ 2. npm install
+ 3. run project
+ 
 
 效果如下图：
   business1和business2是两个不同的包，分别点击会加载不同的patch
