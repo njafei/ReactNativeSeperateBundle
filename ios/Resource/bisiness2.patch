@@ -1,0 +1,16 @@
+@@ -14146,27 +14146,78 @@
+ n(e,
+-r,a,i)%7B
++t,r,n)%7BObject.defineProperty(n,%22__esModule%22,%7Bvalue:!0%7D);
+ var l=
+-r
++t
+ (12)
+-;
++,o=
+ babe
+@@ -14253,13 +14253,958 @@
+ t(l)
+-;r(39
++,s=t(39),a=function(e)%7Bfunction t()%7Breturn babelHelpers.classCallCheck(this,t),babelHelpers.possibleConstructorReturn(this,(t.__proto__%7C%7CObject.getPrototypeOf(t)).apply(this,arguments))%7Dreturn babelHelpers.inherits(t,e),babelHelpers.createClass(t,%5B%7Bkey:%22render%22,value:function()%7Breturn o.default.createElement(s.View,%7Bstyle:i.container%7D,o.default.createElement(s.Text,%7Bstyle:i.welcome%7D,%22Welcome to React Native!%22),o.default.createElement(s.Text,%7Bstyle:i.instructions%7D,%22To get started, edit index.ios.js%22),o.default.createElement(s.Text,%7Bstyle:i.instructions%7D,%22Press Cmd+R to reload,%22,%22%5Cn%22,%22Cmd+D or shake for dev menu%22))%7D%7D%5D),t%7D(l.Component);n.default=a;var i=s.StyleSheet.create(%7Bcontainer:%7Bflex:1,justifyContent:%22center%22,alignItems:%22center%22,backgroundColor:%22#F5FCFF%22%7D,welcome:%7BfontSize:20,textAlign:%22center%22,margin:10%7D,instructions:%7BtextAlign:%22center%22,color:%22#333333%22,marginBottom:5%7D%7D);s.AppRegistry.registerComponent(%22seperate%22,function()%7Breturn a%7D
+ )%7D,0
